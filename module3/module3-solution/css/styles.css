@@ -16,6 +16,7 @@
 #chicken,
 #beef,
 #sushi {
+  min-height: 1000px;
   background-color: lightgray;
   margin-bottom: 30px;
   padding: 0 40px 10px;
@@ -29,11 +30,8 @@
   #chicken,
   #beef,
   #sushi {
-    background-color: lightgray;
-    margin-bottom: 30px;
     margin-right: 15vw;
     margin-left: 15vw;
     padding: 0 5vw 10px;
-    color: #000000;
   }
 }
